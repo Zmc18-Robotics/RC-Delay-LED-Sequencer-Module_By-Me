@@ -7,16 +7,26 @@ A circuit that turns LEDs on and off in a staggered sequence using resistors, ca
 ![license](https://img.shields.io/badge/license-MIT-blue)
 
 ## Circuit
-<img width="469" height="341" alt="Breadboard" src="https://github.com/user-attachments/assets/b9006f62-0787-4af6-8d6d-7f3020b1ff6a" />
+<img width="469" height="341" alt="Breadboard" src="https://github.com/user-attachments/assets/4e4996b3-0251-4078-a240-1e5431bb9837" />
+
+
 
 ## Electrical Circuit
-<img width="550" height="173" alt="Electrical1" src="https://github.com/user-attachments/assets/254a3df9-032c-46cc-913a-9ee0541e534b" />
+<img width="550" height="173" alt="Electrical1" src="https://github.com/user-attachments/assets/bc563b72-e4f9-4dc9-abf5-c4cfaf210726" />
+
+
+
 
 ## Gerber
-<img width="247" height="350" alt="Gerber1" src="https://github.com/user-attachments/assets/416a6162-f8e4-46ba-89c9-d7bbe4b07e56" />
+<img width="247" height="350" alt="Gerber1" src="https://github.com/user-attachments/assets/f1f02278-7a14-41f7-8143-714c88036998" />
+
+
 
 ## PCB
-<img width="772" height="416" alt="PCB2" src="https://github.com/user-attachments/assets/10d67e46-8c20-4325-a846-0d238a0efbb9" />
+<img width="319" height="420" alt="PCB1" src="https://github.com/user-attachments/assets/671d7c25-bba4-4b45-809d-5c69662e5000" />
+<img width="772" height="416" alt="PCB2" src="https://github.com/user-attachments/assets/abe735ac-5a0d-4fee-b9e9-0511bc3c9301" />
+
+
 
 
 ## Table of contents
